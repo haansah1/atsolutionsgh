@@ -1,2 +1,4 @@
 User-agent: *
 Disallow: 
+
+Sitemap: https://www.atsolutionsgh.online/sitemap.xml
