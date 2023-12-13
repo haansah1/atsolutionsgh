@@ -14,7 +14,6 @@ art4El = document.querySelector(".art4");
 aEl = document.querySelector(".a")
 loremEl = document.querySelector(".lorem")
 sect1El = document.querySelector(".sect1")
-btnEl = document.querySelector(".btn");
 
 
 
@@ -47,10 +46,6 @@ window.addEventListener("scroll", ()=> {
     }
 }
 );
-
-btnEl.addEventListener("click", ()=>{
-    alert("Site still under construction");
-})
 
 
 updateMode();
