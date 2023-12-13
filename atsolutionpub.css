@@ -172,9 +172,13 @@ h5{
     border-bottom-left-radius: 20px;
     
 }
+html{
+    scroll-behavior: smooth;
+}
 .content i{
     color:red;
 }
+/* google-site-verification=9rz6Lr65SBlZsB7cja1ct7tOcwumjtO_CkBV5AKp4H0 */
 .big{
     text-align:center;
     align-items:center;

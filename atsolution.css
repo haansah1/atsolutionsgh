@@ -8,6 +8,11 @@
 ::-webkit-scrollbar{
     display:none;
 }
+
+html{
+    scroll-behavior: smooth;
+}
+
 .alert{
     background-color: blue;
 }
